@@ -98,6 +98,9 @@ scoop update
 # add bucket
 scoop bucket add java https://github.com/ScoopInstaller/Java.git
 scoop update
+
+scoop bucket add mybucket https://github.com/xieguoking/my-scoop-bucket.git
+scoop update
 ```
 
 
@@ -182,7 +185,7 @@ nvm list
 |        app        |                             介绍                             |
 | :---------------: | :----------------------------------------------------------: |
 | Clash-for-Windows | Clash for Windows 是目前在 Windows 上唯一可用的图形化 Clash 分支。通过 Clash API 来配置和控制 Clash 核心程序，便于用户可视化操作和使用。 |
-|                   |                         小狼毫输入法                         |
+|      weasel       |                         小狼毫输入法                         |
 |  M3u8-Downloader  | M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP |
 |     RustDesk      | 远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本 |
 |     dingtalk      |                           阿里钉钉                           |
