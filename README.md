@@ -176,8 +176,6 @@ nvm list
 |  winlibs-mingw-msvcrt   | winlibs](http://winlibs.com/) 编译的完整 MSVCRT 运行库 **mingw-w64** 工具链发行版 (GCC 11.x) |
 | winlibs-mingw-llvm-ucrt |           包含 LLVM 13 支持的 *winlibs-mingw-ucrt*           |
 |   winlibs-mingw-ucrt    | winlibs](http://winlibs.com/) 编译的完整 UCRT 运行库 **mingw-w64** 工具链发行版 (GCC 11.x) |
-|                         |                                                              |
-
 
 
 ## 3.2、其它工具
@@ -193,7 +191,4 @@ nvm list
 |     Edgeless      |                      一款半开源的PE工具                      |
 |      MagnetW      |                     最强BT种子搜索神器！                     |
 |      listary      | 一款用于Windows的文件搜索、定位的辅助软件。它提供了便捷、人性化的文件定位方式，改善Windows传统低效的文件打开/保存对话框，同时改善了常见文件管理器中文件夹切换的效率。 |
-|                   |                                                              |
-|                   |                                                              |
-|                   |                                                              |
 
